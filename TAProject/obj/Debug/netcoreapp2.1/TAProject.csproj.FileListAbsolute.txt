@@ -1,0 +1,11 @@
+C:\Users\leewo\source\repos\TAProject\TAProject\bin\Debug\netcoreapp2.1\TAProject.deps.json
+C:\Users\leewo\source\repos\TAProject\TAProject\bin\Debug\netcoreapp2.1\TAProject.runtimeconfig.json
+C:\Users\leewo\source\repos\TAProject\TAProject\bin\Debug\netcoreapp2.1\TAProject.runtimeconfig.dev.json
+C:\Users\leewo\source\repos\TAProject\TAProject\bin\Debug\netcoreapp2.1\TAProject.dll
+C:\Users\leewo\source\repos\TAProject\TAProject\bin\Debug\netcoreapp2.1\TAProject.pdb
+C:\Users\leewo\source\repos\TAProject\TAProject\obj\Debug\netcoreapp2.1\TAProject.csprojAssemblyReference.cache
+C:\Users\leewo\source\repos\TAProject\TAProject\obj\Debug\netcoreapp2.1\TAProject.csproj.CoreCompileInputs.cache
+C:\Users\leewo\source\repos\TAProject\TAProject\obj\Debug\netcoreapp2.1\TAProject.AssemblyInfoInputs.cache
+C:\Users\leewo\source\repos\TAProject\TAProject\obj\Debug\netcoreapp2.1\TAProject.AssemblyInfo.cs
+C:\Users\leewo\source\repos\TAProject\TAProject\obj\Debug\netcoreapp2.1\TAProject.dll
+C:\Users\leewo\source\repos\TAProject\TAProject\obj\Debug\netcoreapp2.1\TAProject.pdb
